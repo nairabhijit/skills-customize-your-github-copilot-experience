@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "unit-testing-pytest",
+      "title": "Unit Testing with pytest",
+      "description": "Writing comprehensive unit tests using pytest framework, including test fixtures, mocking, and test-driven development",
+      "path": "assignments/unit-testing-pytest",
+      "dueDate": "2026-05-21"
     }
   ]
 }
